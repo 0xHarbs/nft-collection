@@ -1,15 +1,8 @@
-# Basic Sample Hardhat Project
+# Multi-linked project incl. ICO Project and Whitelist
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project links to NftDev and Whitelist. 
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+- Addresses can be added to the whitelist
+- NFTs can be minted in presale
+- NFTs can be minted once presale finishes
+- Project can receive funds
